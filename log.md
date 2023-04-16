@@ -29,3 +29,12 @@
 
 **Link(s) to work**
 1. [Age Calculator](https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Age%20Calculator)
+
+### Day 2: April 16, Sunday
+
+**Today's Progress**: I've completed the second project of my Udemy course
+
+**Thoughts** I cant wait to start my next project it looks really interesting!
+
+**Link(s) to work**
+1. [Age Calculator](https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Tip%20Calculator)

@@ -8,3 +8,5 @@ The log of my #100DaysOfCode challenge. Started on [April 15, Saturday, 2023].
 Completed the first project of my udemy course https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Age%20Calculator
 
 ### R1D2
+
+Completed the second project of my udemy course https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Tip%20Calculator
