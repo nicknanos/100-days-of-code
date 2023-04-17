@@ -10,3 +10,7 @@ Completed the first project of my udemy course https://github.com/nicknanos/60-H
 ### R1D2
 
 Completed the second project of my udemy course https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Tip%20Calculator
+
+### R1D3
+
+Started my recipe website project https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App

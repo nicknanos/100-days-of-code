@@ -38,3 +38,12 @@
 
 **Link(s) to work**
 1. [Age Calculator](https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Tip%20Calculator)
+
+### Day 3: April 17, Monday
+
+**Today's Progress**: Started my recipe website project inspired by my udemy course
+
+**Thoughts** I have a lot of ideas for my project, im really excited to work on it
+
+**Link(s) to work**
+1. [Recipe Book App](https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App)
