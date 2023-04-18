@@ -47,3 +47,12 @@
 
 **Link(s) to work**
 1. [Recipe Book App](https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App)
+
+### Day 4: April 18, Tuesday
+
+**Today's Progress**: Did a lot of progress on my recipe website. I got the base style figured out and got the API to work as well
+
+**Thoughts** I have most of the website figured out in my head. All i have to do is impliment it 😅. Hope I can make a useful tool that I can use and maybe even publish!
+
+**Link(s) to work**
+1. [Recipe Book App](https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App)

@@ -14,3 +14,7 @@ Completed the second project of my udemy course https://github.com/nicknanos/60-
 ### R1D3
 
 Started my recipe website project https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App
+
+### R1D4
+
+Did a lot of progress on my recipe website. I got the base style figured out and got the API to work as well https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App
