@@ -18,3 +18,7 @@ Started my recipe website project https://github.com/nicknanos/60-HTML-CSS-JS-Pr
 ### R1D4
 
 Did a lot of progress on my recipe website. I got the base style figured out and got the API to work as well https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App
+
+### R1D5
+
+Worked a bit more on my recipe website and set aside for now. I have big plans for it in the future. I also made some more progress on TheOdinProject https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App

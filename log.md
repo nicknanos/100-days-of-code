@@ -56,3 +56,13 @@
 
 **Link(s) to work**
 1. [Recipe Book App](https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App)
+
+### Day 5: April 19, Wednesday
+
+**Today's Progress**: 
+Worked a bit more on my recipe website and set aside for now. I have big plans for it in the future. I also made some more progress on TheOdinProject
+
+**Thoughts** I had to put my recipe website aside because it'll need a lot of work. I want more variety on my projects right now
+
+**Link(s) to work**
+1. [Recipe Book App](https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App)
