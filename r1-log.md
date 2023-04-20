@@ -22,3 +22,7 @@ Did a lot of progress on my recipe website. I got the base style figured out and
 ### R1D5
 
 Worked a bit more on my recipe website and set aside for now. I have big plans for it in the future. I also made some more progress on TheOdinProject https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App
+
+### R1D6
+
+Completed a basic Rock Paper Scissors app https://nicknanos.github.io/rock-paper-scissors/

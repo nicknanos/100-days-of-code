@@ -66,3 +66,13 @@ Worked a bit more on my recipe website and set aside for now. I have big plans f
 
 **Link(s) to work**
 1. [Recipe Book App](https://github.com/nicknanos/60-HTML-CSS-JS-Projects/tree/main/Recipe%20Book%20App)
+
+### Day 6: April 20, Thursday
+
+**Today's Progress**: 
+Completed a basic Rock Paper Scissors app
+
+**Thoughts** It was simple project but a learned some new things while working on it 
+
+**Link(s) to work**
+1. [Rock Paper Scissors](https://nicknanos.github.io/rock-paper-scissors/)
