@@ -76,3 +76,10 @@ Completed a basic Rock Paper Scissors app
 
 **Link(s) to work**
 1. [Rock Paper Scissors](https://nicknanos.github.io/rock-paper-scissors/)
+
+### Day 7: April 21, Friday
+
+**Today's Progress**: 
+Did more progress on TheOdinProject and learned more about Javascript and got to work with the spread operator
+
+**Thoughts** Can't wait to complete TOP and start learning new frameworks

@@ -26,3 +26,7 @@ Worked a bit more on my recipe website and set aside for now. I have big plans f
 ### R1D6
 
 Completed a basic Rock Paper Scissors app https://nicknanos.github.io/rock-paper-scissors/
+
+### R1D7
+
+Did more progress on TheOdinProject and learned more about Javascript and got to work with the spread operator
