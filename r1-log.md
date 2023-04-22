@@ -30,3 +30,7 @@ Completed a basic Rock Paper Scissors app https://nicknanos.github.io/rock-paper
 ### R1D7
 
 Did more progress on TheOdinProject and learned more about Javascript and got to work with the spread operator
+
+### R1D8
+
+Learned more about DOM and Events in JS and focused on Capture, Propagation and Bubbling https://github.com/nicknanos/JavaScript30

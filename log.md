@@ -83,3 +83,13 @@ Completed a basic Rock Paper Scissors app
 Did more progress on TheOdinProject and learned more about Javascript and got to work with the spread operator
 
 **Thoughts** Can't wait to complete TOP and start learning new frameworks
+
+### Day 8: April 22, Saturday
+
+**Today's Progress**: 
+Learned more about DOM and Events in JS and focused on Capture, Propagation and Bubbling. Finished two challanges from Javascript30(1,25)
+
+**Thoughts** There's so many things that I haven't seen before. It can be a lot but im excited to keep going
+
+**Link(s) to work**
+1. [Javascript30](https://github.com/nicknanos/JavaScript30)
