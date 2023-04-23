@@ -34,3 +34,7 @@ Did more progress on TheOdinProject and learned more about Javascript and got to
 ### R1D8
 
 Learned more about DOM and Events in JS and focused on Capture, Propagation and Bubbling https://github.com/nicknanos/JavaScript30
+
+### R1D9
+
+Made a Rock Paper Scissors game https://nicknanos.github.io/rock-paper-scissors

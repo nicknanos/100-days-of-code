@@ -93,3 +93,13 @@ Learned more about DOM and Events in JS and focused on Capture, Propagation and 
 
 **Link(s) to work**
 1. [Javascript30](https://github.com/nicknanos/JavaScript30)
+
+### Day 9: April 23, Sunday
+
+**Today's Progress**: 
+Made a Rock Paper Scissors game
+
+**Thoughts** It was a simple project but i still learned a lot!
+
+**Link(s) to work**
+1. [Rock-Paper-Scissors](https://nicknanos.github.io/rock-paper-scissors)
