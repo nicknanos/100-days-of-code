@@ -38,3 +38,7 @@ Learned more about DOM and Events in JS and focused on Capture, Propagation and 
 ### R1D9
 
 Made a Rock Paper Scissors game https://nicknanos.github.io/rock-paper-scissors
+
+### R1D10
+
+Made a Sketching App https://nicknanos.github.io/Etch-A-Sketch/

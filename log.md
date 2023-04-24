@@ -103,3 +103,13 @@ Made a Rock Paper Scissors game
 
 **Link(s) to work**
 1. [Rock-Paper-Scissors](https://nicknanos.github.io/rock-paper-scissors)
+
+### Day 10: April 24, Monday
+
+**Today's Progress**: 
+Made a Sketching App
+
+**Thoughts** It was a very fun project and i learned a lot! I have some ideas for additional features but now its not the time
+
+**Link(s) to work**
+1. [Etch-A-Sketch](https://nicknanos.github.io/Etch-A-Sketch/)
