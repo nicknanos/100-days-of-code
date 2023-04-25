@@ -113,3 +113,13 @@ Made a Sketching App
 
 **Link(s) to work**
 1. [Etch-A-Sketch](https://nicknanos.github.io/Etch-A-Sketch/)
+
+### Day 11: April 25, Tuesday
+
+**Today's Progress**: 
+Made a Dice Roller App
+
+**Thoughts** I started feeling more confident for my abilities and i think i finished this project rather quick!
+
+**Link(s) to work**
+1. [Dice Roller](https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Dice%20Roller/index.html)

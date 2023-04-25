@@ -42,3 +42,7 @@ Made a Rock Paper Scissors game https://nicknanos.github.io/rock-paper-scissors
 ### R1D10
 
 Made a Sketching App https://nicknanos.github.io/Etch-A-Sketch/
+
+### R1D11
+
+Made a Dice Roller App https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Dice%20Roller/index.html
