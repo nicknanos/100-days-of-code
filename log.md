@@ -123,3 +123,13 @@ Made a Dice Roller App
 
 **Link(s) to work**
 1. [Dice Roller](https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Dice%20Roller/index.html)
+
+### Day 12: April 26, Wednesday
+
+**Today's Progress**: 
+Made a Pomodoro timer app
+
+**Thoughts** I finished this project really quick, i may slowly start doing multiple projects per day if i have the time
+
+**Link(s) to work**
+1. [Pomodoro Timer](https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Pomodoro%20Timer/index.html)
