@@ -133,3 +133,13 @@ Made a Pomodoro timer app
 
 **Link(s) to work**
 1. [Pomodoro Timer](https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Pomodoro%20Timer/index.html)
+
+### Day 13: April 27, Thursday
+
+**Today's Progress**: 
+Made a quote generator app
+
+**Thoughts** Not a lot of time to work today but i managed to finish it!
+
+**Link(s) to work**
+1. [Quote Generator](https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Quote-Generator/index.html)
