@@ -54,3 +54,7 @@ Made a Pomodoro Timer https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Pomodo
 ### R1D13
 
 Made a Quote Generator https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Quote-Generator/index.html
+
+### R1D14
+
+Made a Color Generator App https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Color-Generator/index.html

@@ -143,3 +143,13 @@ Made a quote generator app
 
 **Link(s) to work**
 1. [Quote Generator](https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Quote-Generator/index.html)
+
+### Day 14: April 28, Friday
+
+**Today's Progress**: 
+Made a Color Generator App
+
+**Thoughts** Once again i had limited time but I manged to finish this quick project and learn about clipboard.js
+
+**Link(s) to work**
+1. [Color Generator](https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Color-Generator/index.html)
