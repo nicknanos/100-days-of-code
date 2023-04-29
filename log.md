@@ -153,3 +153,13 @@ Made a Color Generator App
 
 **Link(s) to work**
 1. [Color Generator](https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Color-Generator/index.html)
+
+### Day 15: April 29, Saturday
+
+**Today's Progress**: 
+Updated my Color Generator App
+
+**Thoughts** I had a lot of cool ideas today and i manged to apply almost all of them
+
+**Link(s) to work**
+1. [Color Generator](https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Color-Generator/index.html)
