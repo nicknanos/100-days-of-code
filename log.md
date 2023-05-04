@@ -163,3 +163,50 @@ Updated my Color Generator App
 
 **Link(s) to work**
 1. [Color Generator](https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Color-Generator/index.html)
+
+### Day 16: April 30, Sunday
+
+**Today's Progress**: 
+Made a DND SpellBook App
+
+**Thoughts** I didn't finish it completely cause i had some issues with the API but it was fun. I'll revisit it
+
+**Link(s) to work**
+1. [DnD SpellBook](https://github.com/nicknanos/dnd-spells)
+
+### Day 17: May 1, Monday
+
+**Today's Progress**: 
+Studied more about JS Objects and array methods
+
+**Thoughts** I learned a lot, cant wait to use them
+
+### Day 18: May 2, Tuesday
+
+**Today's Progress**: 
+Started working on my calculator app
+
+**Thoughts** Started a new part time job so things got slower
+
+**Link(s) to work**
+1. [Calculator](https://nicknanos.github.io/odin-calculator/)
+
+### Day 19: May 3, Wednesday
+
+**Today's Progress**: 
+Made more on my calculator app
+
+**Thoughts** The new job slowed me down a bit but i still managed to code my app
+
+**Link(s) to work**
+1. [Calculator](https://nicknanos.github.io/odin-calculator/)
+
+### Day 20: May 4, Thursday
+
+**Today's Progress**: 
+Finished my calculator app
+
+**Thoughts** Finally finished my calculator. Theres more stuff to add but its in a pretty good state right now
+
+**Link(s) to work**
+1. [Calculator](https://nicknanos.github.io/odin-calculator/)

@@ -62,3 +62,23 @@ Made a Color Generator App https://nicknanos.github.io/60-HTML-CSS-JS-Projects/C
 ### R1D15
 
 Updated my Color Generator App https://nicknanos.github.io/60-HTML-CSS-JS-Projects/Color-Generator/index.html
+
+### R1D16
+
+Made a DND SpellBook App https://github.com/nicknanos/dnd-spells
+
+### R1D17 
+
+Studied more about JS Objects and array methods
+
+### R1D18
+
+Started working on my calculator app https://nicknanos.github.io/odin-calculator/
+
+### R1D19
+
+Made progress on my calculator app https://nicknanos.github.io/odin-calculator/
+
+### R1D20
+
+Finished my calculator app https://nicknanos.github.io/odin-calculator/
